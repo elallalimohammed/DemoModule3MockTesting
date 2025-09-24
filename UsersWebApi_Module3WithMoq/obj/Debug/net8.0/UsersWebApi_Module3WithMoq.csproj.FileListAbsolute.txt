@@ -63,3 +63,4 @@ C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersWebApi_Module3WithMoq\obj\
 C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersWebApi_Module3WithMoq\obj\Debug\net8.0\UsersWebApi_Module3WithMoq.pdb
 C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersWebApi_Module3WithMoq\obj\Debug\net8.0\UsersWebApi_Module3WithMoq.genruntimeconfig.cache
 C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersWebApi_Module3WithMoq\obj\Debug\net8.0\ref\UsersWebApi_Module3WithMoq.dll
+c:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersWebApi_Module3WithMoq\obj\Debug\net8.0\UsersWebApi_Module3WithMoq.sourcelink.json

@@ -123,3 +123,4 @@ C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersControllerTests\obj\Debug\
 C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersControllerTests\obj\Debug\net8.0\UsersControllerTests.pdb
 C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersControllerTests\obj\Debug\net8.0\UsersControllerTests.genruntimeconfig.cache
 C:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersControllerTests\obj\Debug\net8.0\ref\UsersControllerTests.dll
+c:\Users\moal\Desktop\UsersWebApi_Module3WithMoq\UsersControllerTests\obj\Debug\net8.0\UsersControllerTests.sourcelink.json
