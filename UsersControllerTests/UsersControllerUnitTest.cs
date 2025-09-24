@@ -8,7 +8,7 @@ using UsersWebApi_Module3WithMoq.Models;
 
 namespace UsersControllerTests
 { 
-    [TestClass]
+    [TestClass]   // this is a test class
     public class UsersControllerUnitTest
     {
         /// <returns></returns>
